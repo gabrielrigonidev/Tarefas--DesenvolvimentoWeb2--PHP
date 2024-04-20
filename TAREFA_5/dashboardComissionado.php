@@ -127,6 +127,10 @@ if(isset($_POST['btEnviar'])){
         </div>
       
       </div>
+      <div class="container">
+          <br>
+            <h6>Desenvolvido por: Gabriel Rigoni Martins + José Carlos</h6>
+        </div>
     </div>
 
 

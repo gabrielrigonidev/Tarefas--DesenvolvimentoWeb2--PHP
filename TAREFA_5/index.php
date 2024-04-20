@@ -46,6 +46,10 @@
                     <button type="button" class="btn btn-primary btn-lg m-1">Comissionados</button>
                 </a>
          </div>
+         <div class="container">
+          <br>
+            <h6>Desenvolvido por: Gabriel Rigoni Martins + José Carlos</h6>
+        </div>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
